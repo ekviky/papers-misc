@@ -25,18 +25,19 @@ https://hamel.dev/blog/posts/course/
 ## Tools
 [Consider](https://consider.com/jobs/search/all?order=time)
 
-https://my.hbanet.org/My-HBA/Profile
+[HBA](https://my.hbanet.org/My-HBA/Profile)
 
-## SF resources 
-https://www.biocom.org/
 
-https://www.stanfordbiotechgroup.com/events
+## SF resources/communities 
+[BioCom](https://www.biocom.org/)
+
+[StanfordBiotech](https://www.stanfordbiotechgroup.com/events)
 
 https://www.pbss.org/
 
 https://drughunter.com/
 
-https://community.womeninbio.org/clubs/view/san-francisco-bay-area
+[WIB](https://community.womeninbio.org/clubs/view/san-francisco-bay-area)
 
 
 ## ebooks
